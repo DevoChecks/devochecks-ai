@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://swarms.world">
-    <img src="https://github.com/DevoChecks/devochecks-ai/blob/master/devochecks-ai/images/devochecks.PNG" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
-  </a>
+   <img src="https://raw.githubusercontent.com/DevoChecks/devochecks-ai/refs/heads/master/images/devochecks.PNG" style="margin: 15px; max-width: 300px" width="50%" alt="Logo">
 </div>
 <p align="center">
   <em>DevoChecks: Unveiling trust and transparency in crypto with AI-powered developer and wallet analytics.</em>
